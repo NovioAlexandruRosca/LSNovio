@@ -1,8 +1,17 @@
-## Informatii utile despre mine:
-> Hey sunt Alex, student la Informatica in cadrul Universitatii "Alexandru Ioan Cuza" din Iasi in anul II la licenta
-## Sunt deschis la oportunitati noi, iubesc sa invat si sa ma dezolvt din toate punctele de vedere, apreciez si iau in calcul parerile altora, cantaresc riscurile si ma gandesc la ce repercursiuni au actiunile mele
-## Ca si hobby-uri, iubesc gaming-ul, Magic The Gathering, sa gatesc, imi place natura si fotografia, sa colaborez cu oameni misto si cu diferite perspective asupra vietii
-## Momentan pe langa facultate unde imi dezvolt skill-urile de Inginerie a Programarii mai invat Java si si Haskell si in timpul liber doresc sa lucrez la o aplicatie legata de Magic The Gathering
-## Astept sa ma contactati pe LinkedIn sau pe orice social media, in cazul in care doriti sa ne cunoastem mai bine
-## Aveti in bio-ul profilului meu atat Instagram-ul, LinkedIn-ul cat si Facebook-ul meu.
-## Puteti explora Pin-urile mele unde am salvate cateva dintre proiectele mele personale precum un compilator, jocuri, cateva website-uri, proiecte personale dar si altele precum o lista cu laboratoarele cele mai importante din cadrul facultatii
+About Me
+Hey there! I'm Alex, currently pursuing my Bachelor's degree in Computer Science at "Alexandru Ioan Cuza" University in Iasi, Romania, currently in my second year. I thrive on new opportunities, love learning and personal growth, and deeply value diverse perspectives and feedback. I carefully consider risks and consequences before taking action.
+
+Hobbies
+Outside of academics, I enjoy gaming, playing Magic The Gathering, cooking, immersing myself in nature, photography, and collaborating with individuals who offer unique outlooks on life.
+
+Technical Skills
+At the moment I'm working with Java and Haskell in my university but aside from that in my free time I'm working on a Magic The Gathering-related application.
+
+Contact Information
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexandru-david-rosca-8639b2274/), [Instagram](https://www.instagram.com/maestro_novio/), or [Facebook](https://www.facebook.com/alexandru.rosca.946/) to get to know me better.
+
+Projects
+Explore my pinned repositories where I've stored personal projects including a compiler, games, websites, and other noteworthy endeavors. Also, check out a curated list of essential lab works from my university journey.
+
+[!IMPORTANT]
+Please feel free to reach out if you have any questions, opportunities, or just want to connect! Looking forward to engaging with you.
