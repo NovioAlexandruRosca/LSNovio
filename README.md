@@ -8,7 +8,7 @@
 > At the moment I'm working with Java and Haskell in my university but aside from that in my free time I'm working on a Magic The Gathering-related application.
 
 > # Contact Information 🤝
-> Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexandru-david-rosca-8639b2274/), [Instagram](https://www.instagram.com/maestro_novio/), or [Facebook](https://www.facebook.com/alexandru.rosca.946/) to get to know me better.
+> Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexandru-david-rosca-8639b2274/), [Instagram](https://www.instagram.com/maestro_novio/), [Facebook](https://www.facebook.com/alexandru.rosca.946/), [Stagii Pe Bune](https://stagiipebune.ro/students/43844/profile) to get to know me better.
 
 > # Projects 💻
 > Explore my pinned repositories where I've stored personal projects including a compiler, games, websites, and other noteworthy endeavors. Also, check out a curated list of essential lab works from my university journey.
