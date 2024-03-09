@@ -13,5 +13,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexandru
 Projects
 Explore my pinned repositories where I've stored personal projects including a compiler, games, websites, and other noteworthy endeavors. Also, check out a curated list of essential lab works from my university journey.
 
-[!IMPORTANT]
-Please feel free to reach out if you have any questions, opportunities, or just want to connect! Looking forward to engaging with you.
+> [!IMPORTANT]
+> Please feel free to reach out if you have any questions, opportunities, or just want to connect! Looking forward to engaging with you.
