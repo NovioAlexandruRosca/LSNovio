@@ -1,5 +1,5 @@
 > # About Me 👋
-> Hey there! I'm Alex, currently pursuing my Bachelor's degree in Computer Science at "Alexandru Ioan Cuza" University in Iasi, Romania, currently in my second year. I thrive on new opportunities, love learning and personal growth, and deeply value diverse perspectives and feedback. I carefully consider risks and consequences before taking action.
+> Hey there! I'm Alex, currently pursuing my Bachelor's degree in Computer Science at "Alexandru Ioan Cuza" University in Iasi, Romania, currently in my second year. I've ended my first year of University in the top 10 students from my year with an average grade of 9.51. I thrive on new opportunities, love learning and personal growth, and deeply value diverse perspectives and feedback. I carefully consider risks and consequences before taking action.
 
 > # Hobbies 🧳
 > Outside of academics, I enjoy gaming, playing Magic The Gathering, cooking, immersing myself in nature, photography, and collaborating with individuals who offer unique outlooks on life.
