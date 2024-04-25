@@ -14,4 +14,4 @@
 > Explore my pinned repositories where I've stored personal projects including a compiler, games, websites, and other noteworthy endeavors. Also, check out a curated list of essential lab works from my university journey.
 
 > [!IMPORTANT]
-> Please feel free to reach out if you have any questions, opportunities, or just want to connect! Looking forward to engaging with you.
+> Please feel free to reach out if you have any questions, opportunities, or just want to connect! Looking forward to engage with you.
