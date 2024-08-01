@@ -5,7 +5,7 @@
 > Outside of academics, I enjoy gaming, playing Magic The Gathering, cooking, immersing myself in nature, photography, and collaborating with individuals who offer unique outlooks on life.
 
 > # Technical Skills 👨‍🎓
-> At the moment I'm working with Java and Haskell in my university but aside from that in my free time I'm working on a Magic The Gathering-related application.
+> At the moment I'm working with Python and Javascript at work but aside from that in my free time I'm tinkering an index based price predictor using data scarped from the web and different LMMs
 
 > # Contact Information 🤝
 > Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexandru-david-rosca-8639b2274/), [Instagram](https://www.instagram.com/maestro_novio/), [Facebook](https://www.facebook.com/alexandru.rosca.946/), or [Stagii Pe Bune](https://stagiipebune.ro/students/43844/profile) to get to know me better.
